@@ -24,40 +24,10 @@ const store = {
       sku: '111',
       color: {
         code: '#FAD7BD',
-        nameLiteral: 'BACKEND.PRODUCT.CONFIGURATION.COLOR.GOLD',
+        nameLiteral: 'BACKEND.PRODUCT.CONFIGURATION.COLOR.SILVER',
       },
       capacity: '512GB',
       minimumMonthlyPrice: 'R$ 289,90',
-      media: [
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-        },
-        {
-          source: 'https://www.youtube.com/embed/cVEemOmHw9Y',
-          thumbnail: 'http://i3.ytimg.com/vi/cVEemOmHw9Y/hqdefault.jpg',
-        },
-      ],
       paymentMethods: [
         {
           id: '84badd6b-cf1c-4080-b5ca-78d94356aa82',
@@ -79,7 +49,6 @@ const store = {
         },
       ],
       sellerPrice: 'R$ 7.820,13',
-      enabled: true,
     },
   },
   '27': { // 11 Pro Verde meia-noite 64GB
@@ -97,36 +66,6 @@ const store = {
       },
       capacity: '64GB',
       minimumMonthlyPrice: 'R$ 229,90',
-      media: [
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-        },
-        {
-          source: 'https://www.youtube.com/embed/cVEemOmHw9Y',
-          thumbnail: 'http://i3.ytimg.com/vi/cVEemOmHw9Y/hqdefault.jpg',
-        },
-      ],
       paymentMethods: [
         {
           id: '84badd6b-cf1c-4080-b5ca-78d94356aa82',
@@ -148,7 +87,6 @@ const store = {
         },
       ],
       sellerPrice: 'R$ 6.082,13',
-      enabled: true,
     },
   },
   '20': { // 11 Pro Max Verde Meia Noite 256
@@ -162,40 +100,10 @@ const store = {
       sku: '111',
       color: {
         code: '#FAD7BD',
-        nameLiteral: 'BACKEND.PRODUCT.CONFIGURATION.COLOR.GOLD',
+        nameLiteral: 'BACKEND.PRODUCT.CONFIGURATION.COLOR.MIDNIGHT_GREEN',
       },
       capacity: '512GB',
       minimumMonthlyPrice: 'R$ 289,90',
-      media: [
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155790/image-64696cfb2f544996a8fbf782036103ad.jpg?v=637091098778230000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155789/image-74265a6d5f1b4a27a89ea778cdd0b09f.jpg?v=637091098778100000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155788/image-f37783e1fe464265a5b1a068cda1c5d9.jpg?v=637091098778000000',
-        },
-        {
-          source:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-          thumbnail:
-            'https://creditas.vteximg.com.br/arquivos/ids/155787/image-06ba3bd8bf7f4a4d9b002d577ce600c9.jpg?v=637091098777870000',
-        },
-        {
-          source: 'https://www.youtube.com/embed/cVEemOmHw9Y',
-          thumbnail: 'http://i3.ytimg.com/vi/cVEemOmHw9Y/hqdefault.jpg',
-        },
-      ],
       paymentMethods: [
         {
           id: '84badd6b-cf1c-4080-b5ca-78d94356aa82',
@@ -217,7 +125,6 @@ const store = {
         },
       ],
       sellerPrice: 'R$ 7.820,13',
-      enabled: true,
     },
   },
 }
